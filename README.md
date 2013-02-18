@@ -17,3 +17,7 @@ Let's curl!
 ## Generate the IDEA project files
 
     ./sbt gen-idea
+
+## Tests
+
+    ./sbt test
